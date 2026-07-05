@@ -21,7 +21,7 @@
 
 ```bash
 git clone https://github.com/deffiofficalr-star/TIKTOKWARMER.git
-cd etonapy
+cd TIKTOKWARMER
 pip install -r requirements.txt
 python main.py
 ```
